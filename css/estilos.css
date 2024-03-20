@@ -1,0 +1,17 @@
+.peru{
+    color: peru;
+  }
+  body{background-color:rgb(0, 0, 0)}
+  h1{font-family:transformers;color:rgb(0, 110, 255)}
+  h2{font-family:transformers;color:rgb(255, 0, 0)}
+  h3{font-family:transformers;color:rgb(255, 174, 187);}
+  li{font-family:transformers;color:yellow;}
+  p{font-family:transformers;color:rgb(255, 0, 0)}
+  li{text-decoration: underline;}
+  
+  
+  
+  
+  @font-face{font-family: transformers;
+    src:url('../css/Transformers/transfrm.ttf');}
+  .transformers{font-family: transformers;}
